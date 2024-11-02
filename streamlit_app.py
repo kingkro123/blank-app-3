@@ -11,7 +11,7 @@ st.write(
 
 
 st.write(
-    "below is an embedded streamlit app."
+    "below is an embedded streamlit app. you can't access it directly: https://chatbot-ch4trmyyf6u.streamlit.app/"
 
 
 )
